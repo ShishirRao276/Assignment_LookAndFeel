@@ -83,10 +83,10 @@ section {
     font-size: 1rem;
     margin: 2rem 0 3rem;
 }
-model-img{
+.model{
     margin-top: 3rem;
     align-items: center;
-    max-height:20vh;
-    min-height:20vh;
+    max-height:20px;
+    min-height:20px;
 
 }
